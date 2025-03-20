@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div>
-      <h1>DHT registrer </h1>
+      <h1>DHT registrer de naly </h1>
       <table border="1">
         <tbody>
           {data.map((row, index) => (
